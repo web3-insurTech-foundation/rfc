@@ -1,7 +1,7 @@
 # Introduction
 
 
-# Simple Summmary   
+# Simple Summary   
 
 # Abstract
 
@@ -29,6 +29,7 @@
 # Implementations
 
 # References
+
 ## Standards
 
 
