@@ -29,3 +29,5 @@ Ths list of IPs under review from the community
 | w3if-SEC-0001 | Multi Signature Authorization for working on Contracts | Design |
 | w3if-SEC-0002 | Delegated Multi Signature Authorization for working on Contracts | Design |
 
+
+[w3if-FIN-0001](./FIN/w3if-FIN-0001.md)
