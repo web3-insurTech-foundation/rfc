@@ -16,7 +16,7 @@ It must be noted, as we have multichain implementations, it some times takes a l
 # Improvement Promotion Process
 Once a RFC is approved for vote via the Governance committee (meaning it has the required compoennt descriptions) it will be passed to the community for voting.
 
-# Organization Structure
+# Content Structure
 This repo is categorized via the problem domains of the Insurance Industry
 
 It is as follows
