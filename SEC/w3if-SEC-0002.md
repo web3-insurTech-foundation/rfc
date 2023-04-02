@@ -1,7 +1,7 @@
 # Introduction
 
 
-# Simple Summmary   
+# Simple Summary   
 
 # Abstract
 
