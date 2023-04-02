@@ -15,3 +15,16 @@ It must be noted, as we have multichain implementations, it some times takes a l
 
 # Improvement Promotion Process
 Once a RFC is approved for vote via the Governance committee (meaning it has the required compoennt descriptions) it will be passed to the community for voting.
+
+# Organization Structure
+This repo is categorized via the problem domains of the Insurance Industry
+
+It is as follows
+
+- CLA - Claims - processing of claims and claims management
+- FIN - Finance - related to financial transactions with in the system
+- PER - Persona - stakeholders in the eco system
+- POL - Policies - the legal documents binding counter parties
+- PRD - Product - the products that stakeholders purchase
+- RSK - Risk / Cover - the items / assets that are at risk or need to be covered
+- SEC - Security - generalized to access control and authorization and cross chain / contract communication
