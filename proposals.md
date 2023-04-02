@@ -25,9 +25,6 @@ Ths list of IPs under review from the community
 
 | w3if IP | Description | Status |
 | ------- | ----------- | ------ |
-| w3if-FIN-0001 | Commission Interface | Design |
-| w3if-SEC-0001 | Multi Signature Authorization for working on Contracts | Design |
-| w3if-SEC-0002 | Delegated Multi Signature Authorization for working on Contracts | Design |
-
-
-[w3if-FIN-0001](./FIN/w3if-FIN-0001.md)
+| [w3if-FIN-0001](./FIN/w3if-FIN-0001.md) | Commission Interface | Design |
+| [w3if-SEC-0001](./SEC/w3if-SEC-0001.md) | Multi Signature Authorization for working on Contracts | Design |
+| [w3if-SEC-0001](./SEC/w3if-SEC-0002.md) | Delegated Multi Signature Authorization for working on Contracts | Design |
