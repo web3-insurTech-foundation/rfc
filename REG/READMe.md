@@ -1,5 +1,5 @@
 # Introduction
-This is the repo for the Finance Request For Comment
+This is the repo for the Regulatory Request For Comment
 
 True to our core mission, we seek and value feedback from our community on improvements to the W3IF system.  This is achieved through Request for Comments.  Members of the community suggest improvements, the community weighs in and then we vote.
 
@@ -13,4 +13,4 @@ Once approved, we work as a community to implement the improvement.
 
 It must be noted, as we have multichain implementations, it some times takes a little while for the implementations to achieve parity.
 
-Refresh for 12/24
+Refresh for 11/24
