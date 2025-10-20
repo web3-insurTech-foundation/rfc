@@ -13,4 +13,4 @@ Once approved, we work as a community to implement the improvement.
 
 It must be noted, as we have multichain implementations, it some times takes a little while for the implementations to achieve parity.
 
-Refresh for 11/24
+Refresh for 10/2025

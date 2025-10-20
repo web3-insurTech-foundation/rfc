@@ -43,3 +43,5 @@ To submit an improvement plan, the following steps are required
 - send a pull request and we will merge into the main branch. 
 
 Once a RFC is approved for vote via the Governance committee (meaning it has the required component descriptions) it will be passed to the community for voting.
+
+Refresh for 10/2025
