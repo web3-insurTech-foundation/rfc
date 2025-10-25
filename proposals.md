@@ -1,5 +1,5 @@
 # Introduction
-The list of proposals for the Improvement Process
+The list of proposals for the Improvement Process.
 
 # Approved
 The list of approved IPs and their status
