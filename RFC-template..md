@@ -1,19 +1,14 @@
 # Introduction
 
-
 # Simple Summary   
 
 # Abstract
 
-
 # Motivation
-
 
 # Specification
 
-
 # Caveats
-
 
 # Rationale
 
@@ -23,21 +18,19 @@
 
 ## Backwards Compatibility
 
-
 # Test Cases
 
 # Implementations
+
+## Interface
 
 # References
 
 ## Standards
 
-
 ## Issues
 
-
 ## Discussions
-
 
 # Copyright
 Copyright and related rights waived via CC0.
